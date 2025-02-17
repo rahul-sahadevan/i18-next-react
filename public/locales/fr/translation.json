@@ -1,0 +1,7 @@
+{
+    "greeting":"Bienvenue",
+    "description":{
+       "line1": "Vous regardez {{channel}}.",
+       "line2": "Veuillez vous abonner à la chaîne pour plus de vidéos."
+    }
+}
